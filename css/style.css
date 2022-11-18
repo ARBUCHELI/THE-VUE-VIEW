@@ -139,8 +139,7 @@ body {
   }
 
   @media screen and (min-width: 821em) {
-    h3 {
-      font-size: 12px;
-      width: fit-content;
+    body {
+      font-size: 14px;
     }
   }
