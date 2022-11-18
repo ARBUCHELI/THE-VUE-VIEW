@@ -27,12 +27,12 @@
              v-bind:message="tweet" v-bind:author='username'></tweet>
     </div>
     <div class="settings">
-      <h2 style="color: #034f84; border: 1px solid #034f84; border-radius: 5px; padding: 1em; background-color: white;">Settings</h2>
+      <h2 style="color: #034f84; border: 1px solid #034f84; border-radius: 5px; padding: 1em; background-color: white; width: fit-content;">Settings</h2>
       <label for="username">Username</label>
       <input type="text" value="username" placeholder="Username" v-model="username" />
       <label for="bio">Bio</label>
       <textarea value="bio" placeholder="Bio" v-model="bio"></textarea>
-      <label for="tweet" style="color: #034f84; border: 1px solid #034f84; border-radius: 5px; padding: 1em; background-color: white;">New Tweet</label>
+      <label for="tweet" style="color: #034f84; border: 1px solid #034f84; border-radius: 5px; padding: 1em; background-color: white; width: fit-content;">New Tweet</label>
       <div class="new-tweet">
         <input type="text" value="tweet" placeholder="New Tweet" v-model="newTweet" />
         <button v-on:click="tweets.push(newTweet)">Add Tweet</button>
