@@ -141,5 +141,6 @@ body {
   @media screen and (max-width: 913em) {
     h3 {
       font-size: 12px;
+      width: fit-content;
     }
   }
