@@ -138,7 +138,7 @@ body {
     color: white;
   }
 
-  @media screen and (max-width: 913em) {
+  @media screen and (min-width: 821em) {
     h3 {
       font-size: 12px;
       width: fit-content;
