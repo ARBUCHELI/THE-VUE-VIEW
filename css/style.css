@@ -137,3 +137,8 @@ body {
     background-color: SteelBlue;
     color: white;
   }
+
+  @media screen and (max-width: 901em) {
+    h3 {
+      font-size: 14px;
+  }
