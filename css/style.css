@@ -125,7 +125,8 @@ body {
     background-color: white;
     color: SteelBlue;
     transition: .25s;
-    font-weight:bold
+    font-weight:bold;
+    text-justify: none;
   }
   
   .new-tweet button:hover {
