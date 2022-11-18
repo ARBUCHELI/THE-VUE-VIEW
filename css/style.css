@@ -42,7 +42,7 @@ body {
     border-radius: 5px; 
     padding: 1em;
     background-color: SteelBlue;
-    width: 100%;
+    width: fit-content;
   }
   
   .user {
