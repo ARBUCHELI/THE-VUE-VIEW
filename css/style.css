@@ -122,8 +122,8 @@ body {
   .new-tweet button {
     cursor: pointer;
     border-radius: 2px;
-    background-color: #5919d973;
-    color: #ffffff;
+    background-color: white;
+    color: SteelBlue;
     transition: .25s;
   }
   
