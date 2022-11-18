@@ -37,7 +37,11 @@ body {
 
   h3 {
     font-weight: bold;
-    color: SteelBlue;
+    color: white; 
+    border: 1px solid #034f84; 
+    border-radius: 5px; 
+    padding: 1em;
+    background-color: SteelBlue;
   }
   
   .user {
