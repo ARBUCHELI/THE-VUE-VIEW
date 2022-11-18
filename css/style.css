@@ -41,6 +41,7 @@ body {
     border: 1px solid #034f84; 
     border-radius: 5px; 
     margin: 1em;
+    padding: 2em;
     background-color: SteelBlue;
     width: fit-content;
   }
