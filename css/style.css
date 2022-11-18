@@ -126,10 +126,13 @@ body {
     color: SteelBlue;
     transition: .25s;
     font-weight:bold;
-    text-justify: none;
   }
   
   .new-tweet button:hover {
     background-color: SteelBlue;
     color: white;
+  }
+
+  .user-bio {
+    text-justify: none;
   }
