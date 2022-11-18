@@ -35,7 +35,7 @@ body {
     padding-bottom: 1em;
   }
 
-  h3 {
+  .tweets {
     font-weight: bold;
     color: white; 
     border: 1px solid #034f84; 
