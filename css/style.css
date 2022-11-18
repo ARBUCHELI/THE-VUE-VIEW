@@ -139,9 +139,6 @@ body {
   }
 
   @media screen and (max-width: 821em) {
-    .tweet {
-      font-size: .675rem;
-    }
     .tweet h3 {
       margin: 1em;
     }
