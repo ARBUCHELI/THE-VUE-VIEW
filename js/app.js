@@ -1,7 +1,7 @@
 const app = new Vue({
     el: '#app',
     data: {
-      username: 'DEVNINJA',
+      username: 'DEV1',
       newTweet: '',
       tweets: [
         'Started learning to code today. Wish me luck!', 
