@@ -139,7 +139,7 @@ body {
   }
 
   @media screen and (max-width: 821em) {
-    body {
-      font-size: 14px;
+    .tweet {
+      font-size: .675rem;
     }
   }
